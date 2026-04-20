@@ -9,7 +9,7 @@
 | Finances publiques locales   | 2              | 2              | 2026-04-19    | 6              |
 | Management / RH publiques    | 2              | 2              | 2026-04-19    | 6              |
 | Politiques publiques locales | 3              | 3              | 2026-04-19    | 6              |
-| Méthode Note (épreuve 1)     | 1              | 1              | 2026-04-19    | 8              |
+| Méthode Note (épreuve 1)     | 1              | 2              | 2026-04-20    | 8              |
 | Méthode Rapport (épreuve 2)  | 1              | 1              | 2026-04-19    | 8              |
 | Expression écrite            | 5              | 5              | 2026-04-19    | 8              |
 | Expression orale             | 5              | 5              | 2026-04-19    | 8              |
