@@ -33,8 +33,9 @@
 ## Disponibilité hebdomadaire
 
 - **Soirs de semaine** : 1 h/soir après 21h → ~5 h/semaine
+- **Mercredi (jour OFF permanent)** : ~2 h max / semaine en journée *(vie de famille à préserver)*
 - **Week-end** : ~3 h total (répartition libre sam/dim)
-- **Total cible** : ~8 h / semaine (5 h soirs + 3 h WE)
+- **Total cible** : ~10 h / semaine (5 h soirs + 2 h mercredi + 3 h WE)
 - **Vacances d'avril 2026 (19–27/04)** : chez elle, en famille avec enfants → entraînement possible en parallèle des activités
 - **Vacances d'août 2026** : PAS de coupure (J-2 mois des écrits). Régime allégé à définir (voir plan août)
 - **Fenêtre horaire principale** : 21h+ en semaine → séances courtes, méthode + active recall (pas de gros volumes de lecture tardive)
