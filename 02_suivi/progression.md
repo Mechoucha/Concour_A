@@ -9,7 +9,7 @@
 | Finances publiques locales   | 2              | 2              | 2026-04-19    | 6              |
 | Management / RH publiques    | 2              | 2              | 2026-04-19    | 6              |
 | Politiques publiques locales | 3              | 3              | 2026-04-19    | 6              |
-| Méthode Note (épreuve 1)     | 1              | 2              | 2026-04-20    | 8              |
+| Méthode Note (épreuve 1)     | 1              | 3              | 2026-04-22    | 8              |
 | Méthode Rapport (épreuve 2)  | 1              | 1              | 2026-04-19    | 8              |
 | Expression écrite            | 5              | 5              | 2026-04-19    | 8              |
 | Expression orale             | 5              | 5              | 2026-04-19    | 8              |
@@ -23,7 +23,7 @@
 
 ## Points faibles prioritaires
 
-1. **Méthode Note (1/10)** — chantier n°1, démarrage dès S2.
+1. **Méthode Note (3/10)** — chantier n°1, démarrage S2. Progrès mesurés en S4 : mots-clés intégrés, matière FPT bien mobilisée. Restes : titres neutres/englobants, 3 étapes visibles sur brouillon, orthographe.
 2. **Méthode Rapport avec propositions (1/10)** — chantier n°1 bis, après Note.
 3. **Finances publiques locales (2/10)** — chantier de fond, à étaler.
 4. **Management / RH publiques (2/10)** — chantier de fond, à étaler.
