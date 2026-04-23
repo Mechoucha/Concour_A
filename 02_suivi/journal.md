@@ -4,6 +4,68 @@
 
 ---
 
+## S5 — 2026-04-23 — Méthode Note, premier chapeau rédigé (~1h, 21h-22h)
+
+**Forme Camélia** : 8/10 en entrée, fatiguée en sortie (fin de journée de travail). Ressenti final : *« Je sens que j'avance et j'apprends beaucoup de choses. Je suis plutôt fière de moi. »* → équilibre fatigue / fierté / lucidité = état d'esprit idéal pour la durée.
+
+**Contexte** : devoir S4 (refaire les titres à froid) non préparé → on tasse le programme en direct. Leitner + titres + chapeau rédigé en 1h.
+
+**Déroulé** :
+
+1. **Leitner J+3 fiche Note** (~45 %) — progression vs J+2 (30 %).
+   - ✅ Q1 (fonction de la note) à 90 % : destinataire + problématique + documents + décision rapide bien posés.
+   - 🟡 Q2 (note ≠ dissertation) à 70 % : bonnes distinctions, mais **confusion sur le plan** (elle annonce « faits / conséquences »).
+   - 🔴 Q3 (4 piliers) : elle a listé les *pièges éliminatoires* à la place (mots-clés, fidélité, orthographe). Confusion fiche §2 vs §7.
+   - 🔴 Q4 (plan-roi) : **« Faits / Conséquences »** → c'est explicitement le plan À ÉVITER (fiche §4). Corrigé à chaud : plan-roi = **Constat / Perspectives**.
+   - 🔴 Q5 (3 étapes) : oubliées.
+   - Mnémo installés : **D-S-S-S** (Destinataire, Source, Synthèse, Structure) pour les 4 piliers ; **« Qu'est-ce qui se passe ? → Qu'est-ce qu'on peut faire ? »** pour le plan-roi.
+
+2. **Titres du sujet Dématérialisation (15 min chrono) — 3 étapes visibles** ✅
+   - **Étape 1 (mots-clés)** : *dématérialisation, relation, usagers* → 2/3 captés (manque l'angle « mairie/démarches admin »).
+   - **Étape 2 (tension)** : *« ... permet-elle de faciliter l'accès OU crée-t-elle un fossé ... ? »* → 🔴 question **OU/OU** = alternative stérile. Reformulée avec elle : *« Dans quelle mesure X **sans** Y »*.
+   - **Étape 3 (plan)** : 🔴 **piège structurel majeur** — elle a produit un plan **Avantages / Inconvénients** (plan de dissertation, interdit fiche §4) déguisé en Constat/Perspectives, **avec dissonance annonce/contenu sur II** (titre = problème, sous-parties = solutions).
+   - ✅ **Matière FPT excellente** : accompagnement numérique + maintien accueil physique = vraies réponses de terrain.
+   - **Reconstruction en direct** avec ses 4 sous-parties : redistribuées dans un vrai Constat / Perspectives (I. Constat = accès facilité + inégalités d'appropriation / II. Perspectives = accompagnement + maintien accueil physique). Rien de ses idées n'a été perdu, juste réorganisé.
+
+3. **Chapeau introductif rédigé (10 min chrono)** — **premier chapeau complet de sa préparation**.
+   - ✅ **Accroche ancrée terrain** : pandémie Covid + 70 % demandes en ligne + COMEDEC + officiers d'état civil derrière écran. **Gros atout stratégique** — aucun candidat externe n'aura cette densité concrète. À capitaliser.
+   - ✅ **Problématique fidèlement transplantée** (règle du « sans Y » acquise).
+   - 🔴 **Annonce de plan absente** — il manque le 3ᵉ temps obligatoire du chapeau. Formule-joker enseignée : *« Après avoir... il conviendra de... »* (à mémoriser).
+   - 🔴 **Chapeau 40 % trop long** : 3 phrases qui relèvent du I.A / I.B livrées dans l'intro (COMEDEC + basculement des effectifs + nouvelle relation/précarité). Règle mnémotechnique : *« le chapeau plante le décor et ferme le rideau, il ne joue pas la pièce »*.
+   - **Version modèle produite** (7 lignes, 3 temps, 0 faute) → devoir S6 = réécrire à la main.
+
+4. **Orthographe** : 🔴🔴 **13 fautes sur 12 lignes** dans le chapeau. Courbe mauvaise (S2 : 1 faute éliminatoire / S4 : 9 / S5 : 13). La relecture dédiée N'EST TOUJOURS PAS INSTALLÉE — elle écrit en flot et envoie.
+   - Erreurs récurrentes : *usagés* (×3) → *usagers* (erreur-signature, présente à chaque production) ; *dématerialisation* (×2) ; *pendémie*, *consernant*, *ralation*, *permet elle* (sans trait d'union)…
+   - **Règle installée S6** : **relecture mot à mot, à l'envers, crayon en main** AVANT envoi. Non négociable. Sanction zéro si texte non relu en S6.
+
+**Diagnostic global** :
+
+- ✅ La **méthode d'entrée** (3 étapes visibles) est installée — c'était l'objectif n°1 de S5.
+- ✅ La **problématique avec tension** est acquise.
+- 🟡 Le **plan Constat/Perspectives** reste fragile : elle retombe spontanément sur Pour/Contre. À ancrer par répétition (1 sujet de titres par séance jusqu'à fin avril).
+- 🟡 Le **chapeau** : forme comprise mais dosage à travailler (longueur + annonce de plan).
+- 🔴 L'**orthographe** est le SEUL chantier qui ne progresse pas — à traiter en priorité absolue S6.
+
+**Feedback 3 temps donné** :
+
+- Réussi : accroche terrain + problématique fidèle + règle des 3 étapes appliquée.
+- À progresser : plan Constat/Perspectives (pas Avantages/Inconvénients) + resserrer le chapeau + annonce de plan obligatoire.
+- Action : **installer la relecture orthographe dédiée, mot à mot, à l'envers**.
+
+**Devoir pour S6** :
+
+1. **Réécrire à la main** la version modèle du chapeau (2 min) — faire passer le bon modèle par la main.
+2. **Mémoriser la formule d'annonce de plan** : *« Après avoir... il conviendra de... »*.
+3. **Nouveau sujet titres seulement (15 min chrono, 3 étapes visibles)** : *« Le télétravail dans les collectivités territoriales : enjeux managériaux »*.
+4. **Orthographe** : relecture dédiée mot à mot, à l'envers, crayon en main. Sur toute production.
+5. **Exemple de dossier pro** (report S1/S2/S4 — toujours en attente).
+
+**Prochaine séance** : **S6 — vendredi 2026-04-24 à 21h00** (1h). Programme : Leitner J+7 fiche Note (objectif 70 %) + correction titres télétravail + **début de rédaction d'un I.A complet** (passage du squelette à la prose).
+
+**Ressenti Camélia** : *« Je suis fatiguée mais c'est normal après une journée de travail. Je sens que j'avance et j'apprends beaucoup de choses même s'il me reste des chantiers à améliorer. Je suis plutôt fière de moi. »* → fatigue + fierté + lucidité = état d'esprit parfait pour tenir la distance.
+
+---
+
 ## S4 — 2026-04-22 — Méthode Note, production à froid (~1h15, mercredi après-midi)
 
 **Forme Camélia** : 10/10. Mercredi OFF, fenêtre journée exploitée.
