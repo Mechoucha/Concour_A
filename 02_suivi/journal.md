@@ -4,6 +4,51 @@
 
 ---
 
+## S6 — 2026-04-24 — Méthode Note, titres télétravail + Leitner (~1h, soir)
+
+**Forme Camélia** : 2/10 en entrée (fin de journée). Séance tenue malgré l'épuisement.
+
+**Devoirs S5 réalisés** : devoir 2 uniquement (formule annonce de plan *« Après avoir… il conviendra de… »* mémorisée). Devoir 4 (relecture à l'envers) non compris → expliqué en début de séance. Devoirs 1 et 3 non faits.
+
+**Déroulé** :
+
+1. **Leitner fiche Note** — score ~49 % (sous l'objectif 70 %).
+   - ✅ Q1 (fonction de la note) : 85 % — tous les éléments présents, Structure manquait explicitement.
+   - 🟡 Q2 (note ≠ dissertation) : 65 % — fond OK mais finalité *décider vs démontrer* oubliée. Faute : *acadymique* → *académique*.
+   - 🔴 Q3 (4 piliers D-S-S-S) : 20 % — confusion avec les 3 étapes méthodo (même confusion qu'en S5).
+   - 🟡 Q4 (plan-roi Constat/Perspectives) : 60 % — *Constat* trouvé, *Perspectives* introuvable → ancre installée (P comme Propositions/Pistes/Possibilités + expérience état civil).
+   - 🔴 Q5 (3 étapes méthodo) : 15 % — confondu avec les 3 temps du chapeau.
+   - **Fiche repart à J+1 → révision samedi 25/04, objectif 70 %.**
+
+2. **Production titres — sujet *« Le télétravail dans les CT : enjeux managériaux »* (15 min chrono)** :
+   - ✅ Étape 1 (mots-clés) : *télétravail · collectivités territoriales · managériaux* captés.
+   - ✅ Étape 2 (tension) : règle *« sans »* appliquée — *« Dans quelle mesure le télétravail peut-il se développer sans fragiliser le lien managérial ? »*. Ajustement : *« sans impacter »* trop restrictif → reformulé ensemble.
+   - 🔴 Étape 3 (plan) : glissement Avantages/Inconvénients (I.A = bien, I.B = problème). Piège structurel récurrent depuis S4. Plan reconstruit ensemble en Constat/Perspectives.
+   - **Gestion du temps** : II non terminé (trop de temps sur le I). Règle : 8 min I / 7 min II.
+   - 🔴 **Orthographe** : *colléctivités, térritoriales, modérnisation (×2), inigalités* — faute-signature *inégalités* toujours présente (S2→S6).
+
+**Diagnostic global** :
+- ✅ Les 3 étapes visibles sur la feuille à chaque exercice — **réflexe installé**.
+- ✅ Règle *« sans »* dans la tension — acquise.
+- 🟡 Plan Constat/Perspectives : compris intellectuellement, pas encore automatique.
+- 🔴 D-S-S-S et 3 étapes méthodo : deux trous stables depuis S5 → à ancrer différemment en S7.
+- 🔴 Orthographe : aucune progression. Faute-signature *inégalités* présente dans chaque production depuis S2.
+
+**Feedback 3 temps donné** :
+- Réussi : 3 étapes visibles + règle *« sans »* + matière FPT présente.
+- À progresser : plan Constat/Perspectives automatique + D-S-S-S + orthographe.
+- Action : écrire avant de dormir *inégalités · collectivités · territoriales · modernisation* (3 fois chacun à la main).
+
+**Devoirs pour S7** :
+1. **Leitner samedi 25/04** — 5 questions fiche Note, objectif 70 %. Focus D-S-S-S + 3 étapes méthodo.
+2. **Les 4 mots** écrits 3 fois à la main : *inégalités · collectivités · territoriales · modernisation*.
+3. **Refaire le plan télétravail à froid** (titres seulement, 10 min, sans regarder la correction).
+4. **Exemple de dossier pro** — report depuis S1.
+
+**Prochaine séance** : **S7 — samedi 2026-04-25** (heure à confirmer). Programme : Leitner J+1 fiche Note (objectif 70 %) + correction plan télétravail à froid + début I.A en prose.
+
+---
+
 ## S5 — 2026-04-23 — Méthode Note, premier chapeau rédigé (~1h, 21h-22h)
 
 **Forme Camélia** : 8/10 en entrée, fatiguée en sortie (fin de journée de travail). Ressenti final : *« Je sens que j'avance et j'apprends beaucoup de choses. Je suis plutôt fière de moi. »* → équilibre fatigue / fierté / lucidité = état d'esprit idéal pour la durée.
