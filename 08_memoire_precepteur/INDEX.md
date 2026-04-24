@@ -5,3 +5,4 @@
 - [Méthodes pédagogiques](feedback_pedagogie.md) — active recall, Leitner, Feynman, Pomodoro, feedback 3 temps
 - [Garder le cap concours](feedback_cap_concours.md) — toute nouvelle fiche doit servir directement l'une des 3 épreuves ; expliciter le lien avant d'ouvrir un chantier
 - [Clôture de session](feedback_cloture_session.md) — commit + push systématiques à chaque fin de séance (GitHub Mechoucha/Concour_A) pour révision mobile
+- [Sources externes classifiées](reference_sources.md) — annales CDG 54 (2018–2024), vidéos méthode → catalogue dans `09_sources/INDEX.md`
