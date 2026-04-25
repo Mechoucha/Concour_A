@@ -4,6 +4,62 @@
 
 ---
 
+## S7 — 2026-04-25 — Méthode Note, I.A + I.B en prose (~1h30, matin)
+
+**Forme Camélia** : 9/10 — rebond net après le 2/10 de S6.
+
+**Devoirs S6 réalisés** : devoir 2 (4 mots écrits 3 fois ✅ confirmé en fin de S6). Devoir 3 (plan télétravail à froid) non fait — dévoir non compris → réalisé en direct en session.
+
+**Déroulé** :
+
+1. **Leitner fiche Note** — score ~67 % (juste sous l'objectif 70 %).
+   - 🟡 Q1 (fonction + D-S-S-S) : 55 % — D confondu avec *Décision* puis corrigé ; *Source* oubliée.
+   - 🟢 Q2 (note ≠ dissertation) : 75 % — bon, finalité *décider vs convaincre* toujours manquante.
+   - 🟢 Q3 (4 piliers D-S-S-S) : 85 % — les 4 mots présents, ordre légèrement décalé.
+   - 🟡 Q4 (plan-roi) : 60 % — *Constat* ok, *Perspectives* toujours difficile à retrouver spontanément.
+   - 🟡 Q5 (3 étapes méthodo) : 60 % — étape 3 confondue avec *accroche* (chapeau).
+   - **Progression : 49 % (S6) → 67 % (S7). Fiche repart à J+1 → dimanche 26/04, objectif 70 %.**
+
+2. **Plan télétravail à froid** (en direct) :
+   - I construit (I.A lien hiérarchique + I.B inégalités) — glissement I.B vers solutions corrigé.
+   - Plan reconstruit ensemble : I. Constat (pratiques bousculées) / II. Perspectives (leviers managériaux).
+
+3. **I.A en prose — première version** :
+   - Fond : idées justes (supervision directe, guidance, formation des cadres).
+   - 🔴 Registre oral (*nous*, *pas que puisque*), tournures incorrectes (*suppose à ce qu'on soit supervisé*, *supérieur et là*).
+   - 🔴 Orthographe : *colléctivité térritoriales, supperieur (×3), ataches, auquels, continuété*.
+
+4. **I.A en prose — réécriture** :
+   - ✅ Registre administratif tenu, plus de *nous*.
+   - ✅ *« continuité du service public même à distance »* — ajout spontané excellent, mieux que la version modèle.
+   - 🔴 Orthographe : *boulversé, jusqu'a, supervision direct, confrentent, continuété*.
+
+5. **I.B en prose — première production** :
+   - ✅ Matière solide : inégalités selon missions, poste, matériel, autonomie.
+   - 🟡 Lien inégalités → cohésion des équipes absent → phrase de clôture ajoutée en correction.
+   - 🔴 Orthographe : *a crée, chaques, au seins, materiel, autonomme*.
+
+**Diagnostic global** :
+- ✅ Matière FPT excellente — les idées sont là, pertinentes, ancrées terrain.
+- ✅ Registre administratif en nette progression entre première version et réécriture.
+- 🟡 Phrase de clôture (idée → conséquence) à systématiser dans chaque sous-partie.
+- 🔴 Orthographe : fautes-signatures persistantes (*collectivités, territoriales, continuité*) + nouvelles (*créé, chaque, au sein*). Relecture à l'envers toujours pas installée.
+
+**Feedback 3 temps donné** :
+- Réussi : matière FPT solide, progression registre I.A v1→v2, *service public* ajouté spontanément.
+- À progresser : phrase de clôture idée→conséquence ; relecture à l'envers vraiment installée.
+- Action : écrire *créé · chaque · au sein · matériel · autonome* trois fois avant demain.
+
+**Devoirs S8** :
+1. **Leitner dimanche 26/04** — 5 questions, objectif 70 %.
+2. **Les 5 mots** écrits 3 fois : *créé · chaque · au sein · matériel · autonome*.
+3. **Relire I.A + I.B modèles** (5 min, tête reposée).
+4. **Exemple de dossier pro** — un cas concret d'état civil à avoir en tête pour la prépa orale.
+
+**Prochaine séance** : **S8 — dimanche 2026-04-26** (heure à confirmer). Programme : Leitner J+1 fiche Note (objectif 70 %) + II.A en prose.
+
+---
+
 ## S6 — 2026-04-24 — Méthode Note, titres télétravail + Leitner (~1h, soir)
 
 **Forme Camélia** : 2/10 en entrée (fin de journée). Séance tenue malgré l'épuisement.
