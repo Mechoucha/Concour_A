@@ -4,6 +4,65 @@
 
 ---
 
+## S8 — 2026-04-26 — Méthode Note, II.A + II.B en prose + Leitner 81 % (~1h30, soir)
+
+**Forme Camélia** : 9/10 en entrée — rebond confirmé. Fatigue en fin de séance (*« je suis cuite »*) → pause prise, séance terminée.
+
+**Devoirs S7 réalisés** : 5 mots écrits 3 fois ✅ · relecture modèles I.A + I.B ✅.
+
+**Déroulé** :
+
+1. **Leitner fiche Note** — score ~81 % — **objectif 70 % atteint et dépassé pour la première fois**.
+   - 🟢 Q1 : 75 % — D-S-S-S complet, *destinataire* sans accent ✅.
+   - 🟢 Q2 : 80 % — tous les éléments + finalité *décider vs convaincre* ✅.
+   - 🟢 Q3 : 85 % — 4 mots présents, ordre légèrement décalé.
+   - 🟢 Q4 : 90 % — *Constat / Perspectives* acquis.
+   - 🟡 Q5 : 75 % — étape 3 *annoncer* → corrigée spontanément par Camélia après envoi (première autocorrection).
+   - **Progression : 49 % → 67 % → 81 %. Fiche passe à J+7 → samedi 2 mai.**
+
+2. **II.A en prose** (*Repenser l'encadrement : management par objectifs et outils numériques*) :
+   - ✅ Management par objectifs bien identifié, remplacement du contrôle quotidien, outils numériques.
+   - 🟡 *Mobiliers de bureautique* → trop vague. À remplacer par : ordinateurs portables, visioconférence, outils de suivi.
+   - 🟡 Phrase de clôture manquante.
+   - 🔴 Orthographe : 10 fautes dont *continuité* encore (6ᵉ fois).
+   - 🔴 Relecture à l'envers non faite efficacement.
+
+3. **II.B en prose** (*Garantir l'équité d'accès et préserver le lien collectif*) — **meilleure production de la préparation** :
+   - ✅ Critères d'éligibilité clairs par type de poste.
+   - ✅ **Exemple état civil** (accueil physique obligatoire) → ancrage FPT remarquable, atout concurrentiel fort.
+   - ✅ Contrepartie pour les agents non-éligibles → angle fin, peu de candidats y pensent.
+   - ✅ Journées en présentiel obligatoires → cohésion.
+   - ✅ Formation continue pour agents éloignés du numérique → répond aux inégalités de I.B.
+   - ✅ **Phrase de clôture présente** → leçon de S7 appliquée.
+   - 🟡 *Bonification* → inexact ; remplacer par *avantages compensatoires*.
+   - 🔴 17 fautes d'orthographe dont *continuité* (7ᵉ fois).
+
+4. **Dossier pro** — **enfin livré** (report depuis S1) :
+   - Covid → déclarations de naissance → système RDV 15 min + envoi documents par mail.
+   - Initiative collective (cheffe de service → directeur). Système conservé après pandémie.
+   - **Matière première pour l'exposé oral de 5 min** — à structurer en S9 ou lors de la phase orale.
+
+**Diagnostic global** :
+- ✅ Note complète (I.A + I.B + II.A + II.B) produite sur un sujet inédit en 8 jours depuis le niveau 1/10.
+- ✅ Structure Constat/Perspectives tenue sur les 4 sous-parties.
+- ✅ Phrase de clôture intégrée (leçon S7 → S8 appliquée).
+- 🔴 Orthographe : *continuité* faute-signature persistante (7 occurrences), relecture à l'envers non maîtrisée.
+
+**Feedback 3 temps donné** :
+- Réussi : II.B exceptionnelle, ancrage FPT, phrase de clôture, Leitner 81 %.
+- À progresser : relecture à l'envers vraiment mot à mot ; *continuité* — banni des fautes.
+- Action : écrire *continuité* 10 fois.
+
+**Devoirs S9** :
+1. **Leitner samedi 2 mai** — fiche Note.
+2. **Écrire *continuité* 10 fois**.
+3. **Relire le I + II complets** (modèles) en une fois, comme une vraie note.
+4. **Dossier pro** : penser à la structure en 3 temps (contexte → problème → action → résultat).
+
+**Prochaine séance** : **S9 — à confirmer** (semaine du 27 avril).
+
+---
+
 ## S7 — 2026-04-25 — Méthode Note, I.A + I.B en prose (~1h30, matin)
 
 **Forme Camélia** : 9/10 — rebond net après le 2/10 de S6.
