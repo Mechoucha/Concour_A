@@ -4,6 +4,68 @@
 
 ---
 
+## S9 — 2026-04-27 — Méthode Note, sujet inédit absentéisme + outils d'autonomie (~1h, soir)
+
+**Forme Camélia** : 8/10 — moral bas (cause hormonale) mais tient le coup. Demande explicite : « plus de fiches de révision, j'ai du mal avec les devoirs ».
+
+**Devoirs S8 réalisés** : non détaillés (séance partie sur la production directe).
+
+**Déroulé** :
+
+1. **Production titres à froid — sujet inédit** : *« La prévention de l'absentéisme dans les collectivités territoriales »*. 18 min chrono (15 + 3 dépassement).
+   - ✅ Étape 1 (mots-clés soulignés) : *prévention · absentéisme · CT* — les 3 captés.
+   - ✅ Étape 2 (règle « sans » appliquée) : tension construite avec *« sans porter atteinte aux droits des agents »*.
+   - 🔴 **Glissement de verbe** : *prévention* → *« remédier »* dans la tension et le II → hors-sujet partiel.
+   - 🔴 **Plan miroir Cause/Solution déguisé en Constat/Perspectives** : I.A charge → II.A moyens matériels ; I.B manque accompagnement → II.B accompagnement psy/médical. Piège structurel revient sous nouvelle forme (S5 → S6 → S9).
+   - 🔴 *« désertification »* : mot hors-sujet (vide démographique ≠ absentéisme).
+   - 🔴 Orthographe : 9 fautes sur 6 titres (*disertification, broblème, récurrant, térritoriales/térritorial, seins, concrétes, matériaux, psycologique*). Faute-signature *territoriales* 8ᵉ occurrence.
+   - 🟡 *« Comment »* au lieu de *« Dans quelle mesure »* dans la tension.
+
+2. **Correction structurée** + production du plan modèle Constat/Perspectives.
+
+3. **Évaluation honnête de la copie** demandée par Camélia : « ce plan aurait-il fonctionné en examen ? » → estimation 6–9/20, hors-sujet partiel + plan miroir + orthographe en zone éliminatoire.
+
+4. **Pédagogie Constat/Perspectives vs Cause/Solution** : analogie mécanicien vs haut fonctionnaire, test de prévisibilité du II à partir du I.
+
+5. **Mini-exercice de classement (8 titres)** sur sujets dématérialisation + turnover des cadres :
+   - Round 1 (4 titres) : 3/4. Confusion sur *« accompagner les publics éloignés »* classé miroir au lieu de perspective.
+   - Round 2 (4 titres) : **4/4**. Distinction acquise — y compris sur le titre piège (parcours pro vs rémunération).
+   - **Score total : 7/8.** Distinction comprise.
+
+6. **Question méta de Camélia** : *« comment le jury sait-il que j'ai respecté les 3 étapes ? »* → réponse : il voit le résultat dans la copie (mots-clés présents dans les titres, problématique forte, plan Constat/Perspectives), pas le brouillon.
+
+**Livrables créés** :
+- `03_fiches/memo_note_1page.md` — fiche-mémo Méthode Note condensée (4 piliers, 3 étapes, 4 pièges, fautes-signatures, auto-check 30 sec) → ajoutée au calendrier Leitner (J+1 → 28/04).
+- `03_fiches/rituels_quotidiens.md` — 5 micro-rituels en autonomie (verbe rouge, Voltaire, dictée, carnet problématiques, registre admin partout) + tableau de bord hebdo.
+- `01_programme/plan_autonomisation.md` — phases avril → octobre 2026, autonomisation progressive sur les annales.
+- `01_programme/planning_hebdo_type.md` — semaine type Phase 1 (~10h/sem, fenêtre 21h+, mercredi OFF, samedi/dimanche).
+
+**Diagnostic global** :
+- ✅ Méthode des 3 étapes appliquée sur sujet inédit, hors-sujet télétravail/dématérialisation.
+- ✅ Distinction Constat/Perspectives vs Cause/Solution comprise (exercice 7/8).
+- ✅ Réflexivité méta sur l'évaluation (question intelligente sur les 3 étapes).
+- 🔴 Piège plan miroir réapparu sous forme nouvelle → vigilance accrue dès S10.
+- 🔴 Glissement de verbe (*prévention → remédier*) → rituel « verbe rouge » installé en réponse.
+- 🔴 Orthographe : aucune progression visible vs S8 (9 fautes / 6 titres).
+
+**Feedback 3 temps donné** :
+- Réussi : 3 étapes appliquées sur sujet neuf, règle « sans » tenue, exercice de classement 7/8.
+- À progresser : plan Constat (phénomène) ≠ plan miroir Cause/Solution ; verbe du sujet à respecter ; orthographe.
+- Action : installer le rituel **verbe rouge** dès S10 + Projet Voltaire 10 min/jour.
+
+**Devoirs S10** :
+1. **Leitner J+1 mémo Note 1 page** — mardi 28/04 (5 min auto-interrogation).
+2. **Leitner J+7 fiche Note** — samedi 2/05, objectif 75 %.
+3. **Réécrire les 6 titres absentéisme** version corrigée (plan modèle Constat/Perspectives) — 10 min, relecture à l'envers obligatoire.
+4. **5 mots × 3 fois à la main** : *territoriales · problème · récurrent · matériels · psychologique*.
+5. **Démarrer Projet Voltaire** (10 min) si possible mardi ou mercredi.
+
+**Prochaine séance** : **S10 — jeudi 30/04 à 21h** (à confirmer). Programme : Leitner mémo + correction titres absentéisme corrigés + nouveau sujet de Note OU lancement fiche méthode Rapport.
+
+**Ressenti Camélia** : moral bas (hormonal) mais séance tenue. Demande explicite d'outils d'autonomie → obtenue (4 fiches livrées). Sortie de séance avec un planning concret pour la semaine.
+
+---
+
 ## S8 — 2026-04-26 — Méthode Note, II.A + II.B en prose + Leitner 81 % (~1h30, soir)
 
 **Forme Camélia** : 9/10 en entrée — rebond confirmé. Fatigue en fin de séance (*« je suis cuite »*) → pause prise, séance terminée.
