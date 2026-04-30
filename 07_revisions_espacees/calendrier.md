@@ -7,4 +7,4 @@
 |-------|----------|-----|-----|-----|------|------|--------|
 | `05_methodologie/note_administrative.md` | 2026-04-20 | ~~21/04~~ · ~~23/04~~ (45 %) · ~~24/04~~ (49 %) · ~~25/04~~ (67 %) · ~~26/04 S8~~ (81 % ✅) | **02/05 (S9, J+7)** | 09/05 | 23/05 | 01/07 | 🟢 objectif 70 % atteint en S8 ; passe à J+7 |
 | `03_fiches/lexique_administratif.md` (structure) | 2026-04-21 | — *(fiche-process, pas fiche-contenu : révision = enrichissement quotidien)* | — | — | — | — | 🟢 rituel 15 min/jour en cours |
-| `03_fiches/memo_note_1page.md` | 2026-04-27 | ~~28/04~~ · ~~30/04~~ · ~~01/05 S10~~ (76 % ✅) | **02/05 (S11, J+3)** | 04/05 | 18/05 | 26/06 | 🟢 objectif 70 % atteint S10 ; passe à J+3 |
+| `03_fiches/memo_note_1page.md` | 2026-04-27 | ~~28/04~~ · ~~30/04~~ · ~~01/05 S10~~ (76 % ✅) | ~~02/05 S11~~ (82 % ✅) | **09/05 (S12, J+7)** | 18/05 | 26/06 | 🟢 82 % S11 ; passe à J+7 |

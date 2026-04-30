@@ -4,6 +4,55 @@
 
 ---
 
+## S11 — 2026-05-02 — Leitner mémo 82 % + premier sujet Rapport (~1h, soir)
+
+**Forme Camélia** : 9/10.
+
+**Devoirs S10 réalisés** : ❌ aucun devoir fait (Leitner, 5 mots, Voltaire).
+
+**Déroulé** :
+
+1. **Leitner mémo Note** — score ~82 % — progression confirmée.
+   - Q1 A-P-A : 80 % ✅ — trou de S10 rebouché.
+   - Q2 D-S-S-S : 75 % ✅ — Source/Synthèse inversés (ordre non éliminatoire).
+   - Q3 Plan-roi + piège : 90 % ✅ — test de prévisibilité bien intégré.
+   - Q4 3 étapes méthodo : 80 % ✅.
+   - Q5 4 pièges HOPF : 75 % 🟡 — Fidélité oubliée.
+   - **Progression : 49 % → 67 % → 81 % → 76 % → 82 %. Fiche passe à J+7 → samedi 9 mai.**
+
+2. **Premier sujet Rapport** — sujet : *"Amélioration de l'accueil des usagers en mairie"* :
+   - ✅ 3 étapes visibles (mots-clés, tension avec "sans", plan posé).
+   - ✅ Angle tension pertinent : *"sans dégrader les conditions de travail des agents"* — vision managériale FPT.
+   - ✅ Plan Constat/Propositions tenu.
+   - ✅ **II.A et II.B opérationnels** (nocturne hebdomadaire + dématérialisation) — compris dès le 1er essai.
+   - 🔴 Chapeau non rédigé — seulement les 3 étapes de brouillon. Objectif S12.
+   - 🟡 Titre II trop vague (*"moyens matériels et humains"*) — doit être aussi opérationnel que les sous-parties.
+   - 🔴 Orthographe : 6 fautes (*privilégié, matériel, nocturne, hebdomadaire, certaines, pourrait être*).
+
+**Diagnostic global** :
+- ✅ Structure Rapport comprise dès la 1ère séance — constat + propositions opérationnelles.
+- ✅ Leitner mémo 82 % — tendance haussière confirmée.
+- 🔴 Chapeau rédigé : objectif prioritaire S12.
+- 🔴 Orthographe : *hebdomadaire · privilégié · certaines · matériel* à fixer.
+
+**Feedback 3 temps donné** :
+- Réussi : 3 étapes visibles, tension "sans", II.A et II.B opérationnels, logique Rapport comprise.
+- À progresser : titre II aussi opérationnel que les sous-parties ; chapeau rédigé en 3 paragraphes.
+- Action : *hebdomadaire · privilégié · certaines · matériel* × 3 ce soir.
+
+**Devoirs S12** :
+1. **Leitner mémo Note — samedi 9 mai** (J+7, objectif 80 %).
+2. **Leitner fiche Note longue** — rattrapage cette semaine.
+3. **4 mots × 3 fois** : *hebdomadaire · privilégié · certaines · matériel*.
+4. **Voltaire 10 min/jour**.
+5. **Rédiger le chapeau** sujet accueil usagers (A-P-A, 5-7 lignes, relecture à l'envers).
+
+**Prochaine séance** : S12. Programme : correction chapeau accueil usagers + nouveau sujet Rapport complet + Leitner.
+
+**Ressenti Camélia** : bavarde (auto-diagnostic assumé) mais engagement tenu. Forme haute.
+
+---
+
 ## S10 — 2026-05-01 — Leitner mémo + correction titres absentéisme + lancement Rapport (~1h, soir)
 
 **Forme Camélia** : 9/10. Séance du 30/04 sautée (fatigue). Reprise sans culpabilisation.
