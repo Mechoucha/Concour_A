@@ -4,6 +4,67 @@
 
 ---
 
+## S10 — 2026-05-01 — Leitner mémo + correction titres absentéisme + lancement Rapport (~1h, soir)
+
+**Forme Camélia** : 9/10. Séance du 30/04 sautée (fatigue). Reprise sans culpabilisation.
+
+**Devoirs S9 réalisés** :
+- ✅ 5 mots × 3 fois (*territoriales · problème · récurrent · matériels · psychologique*)
+- ✅ Projet Voltaire démarré
+- ❌ Leitner mémo Note J+1 (non fait)
+- ❌ Réécriture 6 titres absentéisme (rattrapée en séance)
+
+**Déroulé** :
+
+1. **Leitner mémo Note** — score ~76 % — objectif 70 % atteint.
+   - Q1 D-S-S-S : 85 % ✅
+   - Q2 Plan-roi + piège : 80 % ✅
+   - Q3 3 étapes méthodo : 90 % ✅
+   - Q4 4 pièges HOPF : 75 % ✅ (piège 4 = fidélité au dossier oublié)
+   - Q5 3 temps du chapeau : 50 % 🔴 (accroche OK, problématique + annonce oubliées → mnémo **A-P-A**)
+   - **Fiche passe à J+3 → samedi 2 mai.**
+
+2. **Correction titres absentéisme** (réécriture des 6 titres, sujet S9) :
+   - ✅ Plan Constat/Perspectives tenu — pas de plan miroir. Progrès réel.
+   - ✅ Verbe rouge "prévenir" respecté dans le II — rituel verbe rouge efficace.
+   - ✅ Tension avec "sans" construite.
+   - 🔴 I.A répète quasi mot pour mot le titre du I — redondance à corriger.
+   - 🟡 II.A trop vague (*"moyens humains et matériels"*) — attendre propositions opérationnelles.
+   - 🔴 Orthographe : 8 fautes (*absentéisme, récurrent, menacée, leviers, collectivités, matériels, professionnelle, peuvent-elles*).
+   - Fautes-signatures persistantes : *absentéisme* (toujours sans accent) · *récurrent* (toujours *récurrant*).
+
+3. **Lancement méthode Rapport** — active recall + apport structuré :
+   - ✅ Camélia a bien posé la distinction Note (synthèse → décider) / Rapport (analyse → proposer).
+   - 3 différences clés ancrées : posture (tu t'engages) · propositions opérationnelles · développement plus long.
+   - Mnémo installé : *Note = Synthèse qui aide à décider / Rapport = Analyse qui propose d'agir*.
+   - Fiche méthode Rapport complète → S11.
+
+**Livrables** : aucun nouveau fichier ce soir (cadre Rapport posé à l'oral).
+
+**Diagnostic global** :
+- ✅ Leitner mémo 76 % — objectif tenu.
+- ✅ Plan Constat/Perspectives automatisé sur sujet absentéisme.
+- ✅ Verbe rouge opérationnel.
+- 🔴 Orthographe : *absentéisme · récurrent* — fautes-signatures à éradiquer.
+- 🔴 Q5 chapeau (A-P-A) : trou stable depuis S5 → à re-travailler en S11.
+
+**Feedback 3 temps donné** :
+- Réussi : plan tenu, verbe rouge, Leitner 76 %, distinction Note/Rapport bien posée.
+- À progresser : *absentéisme · récurrent* doivent devenir automatiques ; I.A ne doit pas répéter le I.
+- Action : écrire *absentéisme · récurrent · professionnelle · leviers · cohésion* 5 fois ce soir.
+
+**Devoirs S11** :
+1. **Leitner mémo Note — samedi 2 mai** (J+3, objectif 75 %).
+2. **Leitner fiche Note longue — samedi 2 mai** (J+7).
+3. **5 mots × 5 fois** : *absentéisme · récurrent · professionnelle · leviers · cohésion*.
+4. **Voltaire 10 min/jour** — à tenir.
+
+**Prochaine séance** : S11 (à confirmer). Programme : Leitner mémo + **premier sujet Rapport** (chapeau + plan guidé) + correction orthographe.
+
+**Ressenti Camélia** : 9/10 — forme haute malgré le saut du 30/04. Engagement tenu.
+
+---
+
 ## S9 — 2026-04-27 — Méthode Note, sujet inédit absentéisme + outils d'autonomie (~1h, soir)
 
 **Forme Camélia** : 8/10 — moral bas (cause hormonale) mais tient le coup. Demande explicite : « plus de fiches de révision, j'ai du mal avec les devoirs ».
