@@ -4,6 +4,59 @@
 
 ---
 
+## S12 — 2026-05-01 — Chapeaux Rapport × 2 + plan absentéisme (~1h, jour férié)
+
+**Forme Camélia** : oloto bien.
+
+**Devoirs S11 réalisés** :
+- ✅ 4 mots × 3 : *hebdomadaire · privilégié · certaines · matériel* — 4/4 en active recall
+- ❌ Chapeau accueil usagers non rédigé → fait en séance
+- ❌ Voltaire : bloqué techniquement → alternative à trouver
+
+**Déroulé** :
+
+1. **Active recall ortho** — 4/4 ✅ — mots acquis.
+
+2. **Chapeau accueil usagers** (sujet S11) — rédigé en séance :
+   - ✅ Structure A-P-A tenue
+   - ✅ Tension retrouvée : *"sans dégrader les conditions des agents"*
+   - ✅ Annonce avec 2 parties nommées
+   - 🔴 13 fautes à la 1ère version — corrigées en séance
+   - **Chapeau validé.**
+
+3. **Sujet absentéisme** — plan + chapeau :
+   - ✅ Structure Constat/Propositions tenue de mémoire
+   - ✅ II.A corrigé : *"management de proximité"* (terme RH exact)
+   - ✅ Tension comprise : ressources budgétaires contraintes
+   - 🟡 Problématique difficile à formuler sans aide — notion de contradiction pas encore automatique
+   - **Plan et chapeau validés avec guidage.**
+
+**Chapeaux reconstruits validés :**
+
+> **Accueil usagers** : La mairie est la première administration auprès de laquelle les usagers effectuent leurs démarches, avec un accueil physique et téléphonique. Depuis quelque temps, les services municipaux accueillent de moins en moins d'administrés : les horaires ne sont pas toujours adaptés et la dématérialisation progresse. Après avoir dressé un constat des méthodes utilisées par les services municipaux pour accueillir les usagers, nous formulerons des propositions concrètes permettant d'améliorer les conditions d'accueil en mettant en place un ensemble de moyens techniques et humains, sans dégrader les conditions d'exercice des agents municipaux.
+
+> **Absentéisme** : Les collectivités territoriales connaissent depuis quelques années une augmentation remarquable de l'absentéisme dans leurs services, liée à des causes multiples : conditions de travail dégradées, manque d'attractivité, épuisement professionnel. Or, réduire l'absentéisme suppose des investissements importants alors que les collectivités disposent de ressources budgétaires contraintes. Après avoir dressé un constat des causes de l'absentéisme, nous formulerons des propositions concrètes permettant d'y remédier en renforçant les moyens humains et matériels, tout en préservant la qualité de service rendu aux usagers.
+
+**Plan absentéisme validé :**
+> I. Les collectivités territoriales face à l'absentéisme
+> A. Le manque de moyens matériels adaptés
+> B. L'absence d'attractivité des collectivités territoriales
+> II. Les leviers pour prévenir l'absentéisme
+> A. Des moyens matériels modernisés et un management de proximité
+> B. Le développement d'une politique de formation continue
+
+**Notion clé retenue** : *management de proximité · ressources budgétaires contraintes*
+
+**Devoirs S13** :
+1. **Leitner mémo Note — samedi 9 mai** (J+7, objectif 80 %)
+2. **Recopier les 2 chapeaux** proprement × 1 chacun
+3. **Voltaire** — trouver alternative si bloqué (Bescherelle en ligne)
+4. **Apprendre** : *management de proximité · ressources budgétaires contraintes*
+
+**Prochaine séance** : S13. Programme : Leitner mémo Note + sujet Rapport complet rédigé (chapeau + titres + II.A/II.B développés).
+
+---
+
 ## S11 — 2026-05-02 — Leitner mémo 82 % + premier sujet Rapport (~1h, soir)
 
 **Forme Camélia** : 9/10.
